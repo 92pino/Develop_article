@@ -4,6 +4,7 @@
 ## Article List
 - [Javascript](#Javascript)
 - [TypeScript](#TypeScript)
+- [React&React Natiive](#React_RN)
 - [Docker](#Docker)
 - [Git](#Git)
 - [아키택처 패턴](#Pattern)
@@ -15,6 +16,9 @@
 <h3 id="TypeScript">TypeScript</h3>
 
   - [TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html)
+  
+<h3 id="React_RN">React&React Native</h3>
+  - [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
 
 <h3 id="Docker">Docker</h3>
 
