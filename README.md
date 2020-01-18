@@ -8,6 +8,7 @@
 - [Docker](#Docker)
 - [Git](#Git)
 - [아키택처 패턴](#Pattern)
+- [기타](#etc)
 
 <h3 id="Javascript">Javascript</h3>
 
@@ -33,3 +34,7 @@
 <h3 id="Pattern">아키택처 패턴</h3>
 
   - [10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
+
+<h3 id="etc">기타</h3>
+
+  - [잘가, 클린코드](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR1OoRQfHG0700ygG-BmviLBcTHA5Jvwl7azTtQm__J5qQelzyWlDlFwpz0)
