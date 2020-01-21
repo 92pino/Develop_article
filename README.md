@@ -21,6 +21,7 @@
 <h3 id="React_RN">React&React Native</h3>
 
   - [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
+  - [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
 
 <h3 id="Docker">Docker</h3>
 
