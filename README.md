@@ -6,6 +6,7 @@
 - [TypeScript](#TypeScript)
 - [React&React Natiive](#React_RN)
 - [Docker](#Docker)
+- [SQL](#Sql)
 - [Git](#Git)
 - [아키택처 패턴](#Pattern)
 - [기타](#etc)
@@ -26,6 +27,10 @@
 <h3 id="Docker">Docker</h3>
 
   - [Docker 개발환경의 구축](https://brunch.co.kr/@sokoban/30#comment)
+
+<h3 id="Sql">SQL</h3>
+
+  - [데이터 분석, 먹고 들어가기 위한 SQL 공부법](https://brunch.co.kr/@minu-log/5#comment)
 
 <h3 id="Git">Git</h3>
 
