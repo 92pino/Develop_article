@@ -38,6 +38,7 @@
 
   - [github에서 자주 쓰이는 영어 정리해 봤습니다.](https://tagilog.tistory.com/588)
   - [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/)
+  - [effective-git](https://www.slideshare.net/kexplo/ndc2016-effective-git)
 
 <h3 id="Pattern">아키택처 패턴</h3>
 
