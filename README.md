@@ -48,3 +48,4 @@
 
   - [잘가, 클린코드](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR1OoRQfHG0700ygG-BmviLBcTHA5Jvwl7azTtQm__J5qQelzyWlDlFwpz0)
   - [코드 가독성에 대하여(상태와 절차)](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
+  - [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
