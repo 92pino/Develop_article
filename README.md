@@ -16,8 +16,14 @@
 <h3 id="iOS">iOS</h3>
 
 <h3 id="iOS_Library">iOS Library</h3>
-- [Alamofire](https://github.com/Alamofire/Alamofire)
-> Swift로 쓰여졌으며 대부분의 네트워킹 기능을 구현해주는 라이브러리
+- [Alamofire](https://github.com/Alamofire/Alamofire) => Swift로 쓰여졌으며 대부분의 네트워킹 기능을 구현해주는 라이브러리
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) => 스위프트에서 JSON을 손쉽게 다룰 수 있도록 기능이 구현되어있는 라이브러리
+- [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) => 모델 객체를 JSON과 손쉽게 상호 변환할 수 있는 라이브러리입니다.
+Alamofire, Realm 등 다른 라이브러리와도 손쉽게 연계할 수 있습니다.
+- [Kingfisher](https://github.com/onevcat/Kingfisher) => 웹 서버에 있는 이미지를 손쉽게 가져올 수 있으며, 캐싱 등의 처리를 알아서 관리해주는 라이브러리
+- [RealmSwift](https://github.com/realm/realm-cocoa) => Realm 모바일 데이터베이스를 사용하면 데이터 모델을 따로 만들고 않고도 리액티브 데이터 레이어를 쉽게 구현할 수 있으면서 성능이 최적화된 앱 개발에 도움
+- [Then](https://github.com/devxoul/Then) => 클로저를 사용하여 인스턴스를 생성한 뒤 원하는 처리를 해줄 수 있다.
+- [SnapKit](https://github.com/SnapKit/SnapKit) => 오토레이아웃을 코드로 구성할 때 매우 편리하게 작성할 수 있게 도와주는 라이브러리
 
 <h3 id="Javascript">Javascript</h3>
 
