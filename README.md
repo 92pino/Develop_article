@@ -10,6 +10,7 @@
 - [Docker](#Docker)
 - [SQL](#Sql)
 - [Git](#Git)
+- [Algorithm](#Algorithm)
 - [아키택처 패턴](#Pattern)
 - [기타](#etc)
 
@@ -62,6 +63,10 @@ Alamofire, Realm 등 다른 라이브러리와도 손쉽게 연계할 수 있습
   - [effective-git](https://www.slideshare.net/kexplo/ndc2016-effective-git)
   - [Git flow 제대로 알고 쓰기](https://blog.gangnamunni.com/2020/03/23/understanding_git_flow.html)
   - [Git 교육자료](https://johngrib.github.io/wiki/git-tutorial/)
+
+<h3 id="Algorithm">Algorithm</h3>
+
+  - [알고리즘 공부법 블로그](https://qkqhxla1.tistory.com/990)
 
 <h3 id="Pattern">아키택처 패턴</h3>
 
