@@ -79,3 +79,4 @@ Alamofire, Realm 등 다른 라이브러리와도 손쉽게 연계할 수 있습
   - [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
   - [개발자를 위한 면접 지침(번역)](https://blog.rhostem.com/posts/2019-01-05-developer-guide-for-interview)
   - [JBEE님 이직기록](https://jbee.io/career/2020-turnover-0/)
+  - [앱 개발 아이디어 브레인스토밍](https://ideaswatch.com/browse)
