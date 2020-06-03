@@ -58,6 +58,7 @@ Alamofire, Realm 등 다른 라이브러리와도 손쉽게 연계할 수 있습
 
 <h3 id="Git">Git</h3>
 
+  - [지금 당장 좋은 커밋 메시지를 남기는 방법](https://jeong-pro.tistory.com/m/207)
   - [github에서 자주 쓰이는 영어 정리해 봤습니다.](https://tagilog.tistory.com/588)
   - [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/)
   - [effective-git](https://www.slideshare.net/kexplo/ndc2016-effective-git)
