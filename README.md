@@ -4,9 +4,6 @@
 ## Article List
 - [iOS](#iOS)
 - [iOS Library](#iOS_Library)
-- [Javascript](#Javascript)
-- [TypeScript](#TypeScript)
-- [React&React Natiive](#React_RN)
 - [Docker](#Docker)
 - [SQL](#Sql)
 - [Git](#Git)
@@ -33,21 +30,6 @@ Alamofire, Realm 등 다른 라이브러리와도 손쉽게 연계할 수 있습
 - [Then](https://github.com/devxoul/Then) => 클로저를 사용하여 인스턴스를 생성한 뒤 원하는 처리를 해줄 수 있다.
 - [SnapKit](https://github.com/SnapKit/SnapKit) => 오토레이아웃을 코드로 구성할 때 매우 편리하게 작성할 수 있게 도와주는 라이브러리
 - [SD WebImage](https://github.com/SDWebImage/SDWebImage) => 웹 서버에 있는 이미지를 손쉽게 가져올 수 있으며, 캐싱 등의 처리를 알아서 관리해주는 라이브러리
-
-<h3 id="Javascript">Javascript</h3>
-
-- [Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/?fbclid=IwAR1aBvoRrQW372ATQkL3sLtFQpW3qKRQWRNYCofU36oYnng17uAPCCqMmho)
-- [자바스크립트 동작원리](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
-- [자바스크립트 동작 시각화](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
-
-<h3 id="TypeScript">TypeScript</h3>
-
-  - [TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html)
-  
-<h3 id="React_RN">React&React Native</h3>
-
-  - [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
-  - [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
 
 <h3 id="Docker">Docker</h3>
 
