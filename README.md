@@ -20,6 +20,7 @@
 - [iOS Project 30](https://github.com/soapyigu/Swift-30-Projects)
 - [iOS(Swift, Objc) 질문과 답변 모음](https://github.com/ClintJang/ios-swift-objc-questions-and-answers/blob/master/README.md)
 - [iOS 개발자들의 놀이터](https://yagom.net/)
+- [HTTP in Swift](https://davedelong.com/blog/2020/06/27/http-in-swift-part-1/)
 
 <h3 id="iOS_Library">iOS Library</h3>
 
