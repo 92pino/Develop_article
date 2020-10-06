@@ -18,6 +18,7 @@
 - [iOS(Swift, Objc) 질문과 답변 모음](https://github.com/ClintJang/ios-swift-objc-questions-and-answers/blob/master/README.md)
 - [iOS 개발자들의 놀이터](https://yagom.net/)
 - [HTTP in Swift](https://davedelong.com/blog/2020/06/27/http-in-swift-part-1/)
+- [신속한 Swift](https://sodocumentation.net/ko/swift/topic/202/%EC%8B%A0%EC%86%8D-%EC%96%B8%EC%96%B4-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 
 <h3 id="iOS_Library">iOS Library</h3>
 
@@ -51,6 +52,9 @@ Alamofire, Realm 등 다른 라이브러리와도 손쉽게 연계할 수 있습
 <h3 id="Algorithm">Algorithm</h3>
 
   - [알고리즘 공부법 블로그](https://qkqhxla1.tistory.com/990)
+  - [Swift로 구현한 기본 정렬 알고리즘](https://soooprmx.com/archives/5408)
+  - [알고리즘에 필요한 Swift 문법](https://medium.com/@twih1203/swift-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-swift-basic-%EC%B4%9D%EC%A0%95%EB%A6%AC-d86453bbeaa5)
+  - [raywenderlich 알고리즘 클럽](https://github.com/raywenderlich/swift-algorithm-club)
 
 <h3 id="Pattern">아키택처 패턴</h3>
 
