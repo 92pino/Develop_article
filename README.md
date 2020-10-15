@@ -68,3 +68,4 @@ Alamofire, Realm 등 다른 라이브러리와도 손쉽게 연계할 수 있습
   - [개발자를 위한 면접 지침(번역)](https://blog.rhostem.com/posts/2019-01-05-developer-guide-for-interview)
   - [JBEE님 이직기록](https://jbee.io/career/2020-turnover-0/)
   - [앱 개발 아이디어 브레인스토밍](https://ideaswatch.com/browse)
+  - [객체지향의 올바른 이해 : 7. 의존(Dependency)과 책임(Responsibility)](https://effectiveprogramming.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%9D%B4%ED%95%B4-%EC%B1%85%EC%9E%84Responsibility)
