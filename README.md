@@ -19,6 +19,7 @@
 - [iOS 개발자들의 놀이터](https://yagom.net/)
 - [HTTP in Swift](https://davedelong.com/blog/2020/06/27/http-in-swift-part-1/)
 - [신속한 Swift](https://sodocumentation.net/ko/swift/topic/202/%EC%8B%A0%EC%86%8D-%EC%96%B8%EC%96%B4-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+- [Final Keyword - Swift5](https://medium.com/@ayusinghi96/final-keyword-swift-5-ios-4b3a31717feb)
 
 <h3 id="iOS_Library">iOS Library</h3>
 
@@ -69,3 +70,4 @@ Alamofire, Realm 등 다른 라이브러리와도 손쉽게 연계할 수 있습
   - [JBEE님 이직기록](https://jbee.io/career/2020-turnover-0/)
   - [앱 개발 아이디어 브레인스토밍](https://ideaswatch.com/browse)
   - [객체지향의 올바른 이해 : 7. 의존(Dependency)과 책임(Responsibility)](https://effectiveprogramming.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%9D%B4%ED%95%B4-%EC%B1%85%EC%9E%84Responsibility)
+  - [Learning Dependency Injection using Swift](https://medium.com/@ayusinghi96/final-keyword-swift-5-ios-4b3a31717feb)
